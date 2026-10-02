@@ -18,13 +18,13 @@
         Hi! I'm an innovative <strong>Software Engineer</strong> who loves building scalable backend systems, interactive frontend interfaces, and exploring cloud-native architectures.
       </p>
       <ul>
-        <li>💼 Currently working as a <strong>Software Engineer</strong></li>
+        <li>💼 Currently working as a <strong>Freeloader</strong></li>
         <li>🚀 Deep-diving into <strong>System Design & Cloud Computing</strong></li>
         <li>⚡ Always eager to learn new technologies and build cool products</li>
-        <li>💬 Ask me about <strong>Java, React, Go, or Backend Architecture</strong></li>
+        <li>💬 Ask me about <strong>Java, React, Go, Backend Architecture or How great MM93 is!</strong></li>
       </ul>
       <p>
-        <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+        <i>"Laughtale"</i>
       </p>
     </td>
     <td width="50%" valign="top">
